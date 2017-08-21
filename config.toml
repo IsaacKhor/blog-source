@@ -1,0 +1,17 @@
+baseurl = "https://isaackhor.com/"
+languageCode = "en-gb"
+title = "Essence of Insanity"
+
+buildDrafts = false
+
+googleAnalytics = "UA-83435334-1"
+
+copyright = "2016 Isaac Khor."
+
+[permalinks]
+ 	blog = "/blog/:year/:title/"
+
+[Params]
+	DateForm = "2 Jan 2006"
+	github = "https://github.com/IsaacKhor"
+	tagline = "Ramblings of a lunatic"
