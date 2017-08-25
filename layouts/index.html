@@ -2,7 +2,7 @@
 {{ partial "page-header.html" . }}
 
 <main>
-{{ range first 10 (where .Paginator.Pages ".Params.notonhomepage" "!=" "true") }}
+{{ range first 6 (where .Paginator.Pages ".Params.notonhomepage" "!=" "true") }}
 	<article class="article">
 		<div class="article-header">
 			<h1 class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
