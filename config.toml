@@ -1,17 +1,18 @@
 baseurl = "https://isaackhor.com/"
 languageCode = "en-gb"
 title = "Essence of Insanity"
+copyright = "2017 Isaac Khor."
 
 buildDrafts = false
 
-googleAnalytics = "UA-83435334-1"
-
-copyright = "2016 Isaac Khor."
+# Pagination
+paginate = 6
+paginatePath = "page"
 
 [permalinks]
  	blog = "/blog/:year/:title/"
 
 [Params]
 	DateForm = "2 Jan 2006"
-	github = "https://github.com/IsaacKhor"
+	github = "https://github.com/ClarenceClark"
 	tagline = "Ramblings of a lunatic"
