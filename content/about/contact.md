@@ -1,11 +1,8 @@
 +++
-notOnHomePage = true
-type = "special"
-layout = "special-about"
 title = "Contact"
 +++
 
-If you don't know me personally or know somebody that does, the easiest way of contacting me is via email (It's an image because I'm pretty sure spambot crawlers don't do OCR): 
+If you don't know me personally or know somebody that does, the easiest way of contacting me is via email (It's an image because I'm pretty sure spambot crawlers don't do OCR):
 
 ![Email address](/img/contact.png)
 

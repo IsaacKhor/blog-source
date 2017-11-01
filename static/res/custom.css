@@ -1,0 +1,107 @@
+body {
+  color: #555;
+  font-size: 16px;
+  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  line-height: 1.6em;
+}
+
+a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+#reader-text {
+  clip: rect(1px,1px,1px,1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+/* Header */
+.header {
+  padding: 20px 0;
+  text-align: center;
+}
+  .header__link {
+    font-size: 1.5em;
+    color: inherit;
+    font-weight: 300;
+  }
+  .header__tagline {
+    margin: 12px 0 0;
+    color: inherit;
+    font-size: 0.8em;
+    font-weight: 300;
+  }
+
+/* Navigation */
+.navbar__menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.navbar__item {
+  list-style: none;
+  margin: 0 12px;
+}
+
+/* Blog list */
+.article-list__item {
+  margin: 8px 0;
+}
+
+/* Article */
+.article__meta {
+  font-size: 0.9em;
+}
+
+/* Footer */
+#footer {
+  margin-bottom: 3em;
+}
+.copyright {
+  margin: 24px 0 0;
+  text-align: center;
+  font-size: 0.8px;
+}
+
+/* General */
+#main {
+  max-width: 600px;
+  margin: 40px auto 0;
+}
+
+.divider { margin: 0 6px; }
+
+.title { font-size: 1.5rem; }
+.title, h1, h2, h3, h4, h5, h6 { font-weight: 300; }
+h3, h4 { margin: 1em 0 0.5em; }
+h5, h6 { margin: 1em 0 0.25em; }
+
+pre, code {
+  font-family: Source Code Pro, monospace;
+  font-size: 0.85rem;
+  border-radius: 3px;
+  background-color: #efefef;
+  overflow: auto;
+  word-wrap: break-word;
+}
+
+pre {
+  display: block;
+  padding: 12px;
+}
+
+code {
+  padding: 3px;
+  border-radius: 2px;
+}
+
+hr {
+  border: none;
+  border: 1px dashed rgba(48,48,48,0.18);
+  margin-top: 1.5rem;
+}
