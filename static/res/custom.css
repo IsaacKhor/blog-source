@@ -105,3 +105,8 @@ hr {
   border: 1px dashed rgba(48,48,48,0.18);
   margin-top: 1.5rem;
 }
+
+img {
+  height: 40%;
+  width: 40%;
+}
