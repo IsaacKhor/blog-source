@@ -1,5 +1,5 @@
 +++
-title = "Patterns in the Abyss"
+title = "The Essence of Insanity"
 +++
 
 __Isaac Khor__ - Writing software since 2012, mostly in JS, Scala, Clojure, Rust, and Ruby. He also likes to ponder on music, science, and philosophy; the blog is a collection of all of the above.
