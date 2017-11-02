@@ -8,6 +8,8 @@ pygmentsCodefences = true
 defaultContentLanguage = "en-gb"
 sectionPagesMenu = "main"
 
+rssLimit:
+
 # Pagination
 paginate = 60
 paginatePath = "page"
@@ -20,3 +22,4 @@ paginatePath = "page"
   github = "https://github.com/ClarenceClark"
   tagline = "Ramblings of a lunatic"
   licenseFile = "/about/license/"
+
