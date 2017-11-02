@@ -8,7 +8,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en-gb"
 sectionPagesMenu = "main"
 
-rssLimit:
+rssLimit = 60
 
 # Pagination
 paginate = 60
