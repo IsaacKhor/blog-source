@@ -76,4 +76,4 @@ All pronunciations shall follow the rules of Clarentine English Pronunciation (t
 	- `+3.2`: 0 seasons, 3 cycles, and 2 days in the future
 	- `+4.1`: 0 seasons, 4 cycles, and 1 day in the future
 
-[1]:	https://github.com/ClarenceClark/project-clarentine
+[1]:	https://github.com/IsaacKhor/project-clarentine
