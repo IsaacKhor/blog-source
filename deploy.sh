@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo -e "Deploying updates to GitHub...\n\n\n"
+echo -e "Deploying updates to GitHub..."
 
 # Build the project.
-echo -e "Building site... \n\n\n"
+echo -e "Building site... \n"
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
@@ -19,7 +19,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-echo -e "Deploying site...\n\n\n"
+echo -e "\nDeploying site...\n"
 git push origin master
 
 # Come Back
@@ -29,5 +29,5 @@ cd ..
 git add -A
 git commit -m "$msg" # msg already set from the public repo
 
-echo -e "Pushing blog source...\n\n\n"
+echo -e "\nPushing blog source...\n"
 git push
