@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/isaackhor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://isaackhor.com
+  * I am isaackhor (https://keybase.io/isaackhor) on keybase.
+  * I have a public key ASAcFwPztGcW9aFwNpt-OQilzRNB_lpB2y-6Q-bwdR7bTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c1703f3b46716f5a170369b7e3908a5cd1341fe5a41db2fba43e6f0751edb4f0a",
+      "host": "keybase.io",
+      "kid": "01201c1703f3b46716f5a170369b7e3908a5cd1341fe5a41db2fba43e6f0751edb4f0a",
+      "uid": "11e41afc4d511f44402645e538011019",
+      "username": "isaackhor"
+    },
+    "merkle_root": {
+      "ctime": 1509601826,
+      "hash": "ec9377567bb0db827a647e0af543b7ba0ee7f1c3098a13ecf7b828e9df753d008ec8c843bf0cf1eefbb2d6a451d379c599228e52ccf22922c378d048134ca266",
+      "hash_meta": "fb01ddfea81acb741fb0e2d9ebbc805649c209cf644919e1c9e4b52cf2de7e16",
+      "seqno": 1657757
+    },
+    "service": {
+      "hostname": "isaackhor.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509601829,
+  "expire_in": 504576000,
+  "prev": "ffab67f771f34713bd29a483ed0ee7e0061731abadba4d9ec6f67a7d6106f92e",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHBcD87RnFvWhcDabfjkIpc0TQf5aQdsvukPm8HUe208Kp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWMxNzAzZjNiNDY3MTZmNWExNzAzNjliN2UzOTA4YTVjZDEzNDFmZTVhNDFkYjJmYmE0M2U2ZjA3NTFlZGI0ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWMxNzAzZjNiNDY3MTZmNWExNzAzNjliN2UzOTA4YTVjZDEzNDFmZTVhNDFkYjJmYmE0M2U2ZjA3NTFlZGI0ZjBhIiwidWlkIjoiMTFlNDFhZmM0ZDUxMWY0NDQwMjY0NWU1MzgwMTEwMTkiLCJ1c2VybmFtZSI6ImlzYWFja2hvciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTYwMTgyNiwiaGFzaCI6ImVjOTM3NzU2N2JiMGRiODI3YTY0N2UwYWY1NDNiN2JhMGVlN2YxYzMwOThhMTNlY2Y3YjgyOGU5ZGY3NTNkMDA4ZWM4Yzg0M2JmMGNmMWVlZmJiMmQ2YTQ1MWQzNzljNTk5MjI4ZTUyY2NmMjI5MjJjMzc4ZDA0ODEzNGNhMjY2IiwiaGFzaF9tZXRhIjoiZmIwMWRkZmVhODFhY2I3NDFmYjBlMmQ5ZWJiYzgwNTY0OWMyMDljZjY0NDkxOWUxYzllNGI1MmNmMmRlN2UxNiIsInNlcW5vIjoxNjU3NzU3fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImlzYWFja2hvci5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwOTYwMTgyOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmZmFiNjdmNzcxZjM0NzEzYmQyOWE0ODNlZDBlZTdlMDA2MTczMWFiYWRiYTRkOWVjNmY2N2E3ZDYxMDZmOTJlIiwic2Vxbm8iOjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAMB06EXZCAUj7Z3zsCfucgNroEbcja/N99IxUIlP+DDVjfeXms0n29h28L1rO6LWHPpMvD6pRPyKHxAWA9+VrAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICTkM+4ON0Msj99z3i12otcWMFZBfACO4m8jYWfgwW0zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/isaackhor
+
+==================================================================
