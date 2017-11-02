@@ -1,6 +1,9 @@
 {{ partial "head.html" . }}
 
 <main id="main" class="main">
+  <div class="content">
+    {{ .Content }}
+  </div>
   <ul class="article-list">
     {{ range .Paginator.Pages }}
       <li class="article-list__item">
