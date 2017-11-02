@@ -1,7 +1,6 @@
 baseurl = "https://isaackhor.com/"
 languageCode = "en-gb"
 title = "The Essence of Insanity"
-copyright = "2017 Isaac Khor"
 
 buildDrafts = false
 enableRobotsTXT = true
@@ -20,3 +19,4 @@ paginatePath = "page"
   DateForm = "2 Jan 2006"
   github = "https://github.com/ClarenceClark"
   tagline = "Ramblings of a lunatic"
+  licenseFile = "/about/license/"
