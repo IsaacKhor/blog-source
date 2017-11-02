@@ -112,7 +112,7 @@ figure {
 }
 figcaption > h4 { margin: 0; }
 img {
-  max-width: 500px;
+  max-width: 600px;
   align: middle;
   border: 1px dashed rgba(48, 48, 0, 0.15);
 }
