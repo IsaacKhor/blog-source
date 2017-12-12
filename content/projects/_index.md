@@ -12,3 +12,5 @@ weight = 10
 [**User-Agent Randomiser**](/projects/user-agent-randomiser) ([Github](/projects/user-agent-randomiser/)) - A firefox extension that randomises your user-agent string on a configurable interval.
 
 [**What Dalat Lunch?**](https://whatdalatlunch.glitch.me/) - A Dalat lunch tracker.
+
+[**Final Exam Calculator**](/projects/finalcalc/) - Calculates your maximum final score given your current grade and your required final exam grade for your desired final total score.
