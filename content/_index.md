@@ -18,8 +18,6 @@ __Isaac Khor__ - Writing software since 2012, mostly in JS, Scala, Clojure, Rust
 
 [**User-Agent Randomiser**](/projects/user-agent-randomiser) ([Github](/projects/user-agent-randomiser/)) - A firefox extension that randomises your user-agent string on a configurable interval.
 
-[**What Dalat Lunch?**](https://whatdalatlunch.glitch.me/) - A Dalat lunch tracker.
-
 ---
 
 ### Recent Posts
