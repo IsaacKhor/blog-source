@@ -2,15 +2,10 @@
   HUGO_VERSION = "0.36"
 
 [[headers]]
-  for = "/*"
-  [headers.value]
+for = "/*"
+  [headers.values]
+  Content-Security-Policy = "default-src: 'none'; script-src: 'self'; img-src: 'self'; style-src: 'self'; font-src: 'self' https://fonts.googleapis.com; report-uri: https://isaackhor.report-uri.com/r/d/csp/enforce;"
+  Referer = "no-referrer"
+  X-Content-Type-Options = "nosniff"
   X-Frame-Options = "DENY"
   X-XSS-Protection = "1; mode=block"
-  Content-Security-Policy = """
-  default-src: 'none'; \
-  script-src: 'self'; \
-  img-src: 'self'; \
-  style-src: 'self'; \
-  font-src: 'self' https://fonts.googleapis.com; \
-  report-uri: https://isaackhor.report-uri.com/r/d/csp/enforce; \
-  """
