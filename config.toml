@@ -19,7 +19,7 @@ paginatePath = "page"
 
 [Params]
   DateForm = "2 Jan 2006"
-  github = "https://github.com/ClarenceClark"
+  github = "https://github.com/IsaacKhor"
   tagline = "Ramblings of a lunatic"
   licenseFile = "/about/license/"
 
