@@ -1,6 +1,6 @@
 baseurl = "https://isaackhor.com/"
 languageCode = "en-gb"
-title = "The Essence of Insanity"
+title = "Isaac Khor's Blog"
 
 buildDrafts = false
 enableRobotsTXT = true
@@ -20,6 +20,6 @@ paginatePath = "page"
 [Params]
   DateForm = "2 Jan 2006"
   github = "https://github.com/IsaacKhor"
-  tagline = "Ramblings of a lunatic"
+  tagline = "Random ramblings from a preson of questionable sanity"
   licenseFile = "/about/license/"
 

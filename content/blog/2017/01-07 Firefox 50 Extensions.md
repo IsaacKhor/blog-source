@@ -5,7 +5,10 @@ tags = ["", ""]
 title = "Firefox 50 Extensions"
 +++
 
-About four months after my switch to Firefox, my extensions situation seems to have finally stabilised. Thus, it's time to take a comprehensive inventory of my entire browser system, for the sake of documentation in case I need to set up this system again.
+About four months after my switch to Firefox, my extensions situation seems to
+have finally stabilised. Thus, it's time to take a comprehensive inventory of my
+entire browser system, for the sake of documentation in case I need to set up
+this system again.
 
 I hope to still be using this in a year, but with Firefox extensions, you will never know.
 

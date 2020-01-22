@@ -5,21 +5,31 @@ tags = ["", ""]
 title = "Clarentine Calendar 1.0 Released"
 +++
 
-I have been testing the 0.4.0 version of the calendar since the end of July, and with minor modifications to relative date syntax, is finally ready for a 1.0.
+I have been testing the 0.4.0 version of the calendar since the end of July, and
+with minor modifications to relative date syntax, is finally ready for a 1.0.
 
-In accordance with Semantic Versioning, backwards compatibility will be guaranteed until the release of version 2.0 of the calendar, for the people out there (if such a person exists, please let me know) using this calendar.
+In accordance with Semantic Versioning, backwards compatibility will be
+guaranteed until the release of version 2.0 of the calendar, for the people out
+there (if such a person exists, please let me know) using this calendar.
 
-I have also found that using a standalone number like 3 in the middle of text does not make it _obvious_ that _time_ is being communicated, thus I have specified that _only_ number groups denoting the season may be omitted from both absolute and relative dates.
+I have also found that using a standalone number like 3 in the middle of text
+does not make it _obvious_ that _time_ is being communicated, thus I have
+specified that _only_ number groups denoting the season may be omitted from both
+absolute and relative dates.
 
-The 1.0 specifications is as follows; for the most recent version, see the project page [here][1]:
+The 1.0 specifications is as follows; for the most recent version, see the
+project page [here][1]:
 
 # The Clarentine Calendar
 
 Current revision: 1.0.1
 
-This is the formal specification for the Clarentine calendar. This document is a _work is progress_; it will change as feedback is incorporated.
+This is the formal specification for the Clarentine calendar. This document is a
+_work is progress_; it will change as feedback is incorporated.
 
-All pronunciations shall follow the rules of Clarentine English Pronunciation (the specification of which will be published later; it's still a work in progress).
+All pronunciations shall follow the rules of Clarentine English Pronunciation
+(the specification of which will be published later; it's still a work in
+progress).
 
 ## Section 1: Names and Definitions
 

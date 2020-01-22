@@ -3,14 +3,21 @@ title = "Projects"
 weight = 10
 +++
 
-[**Project Clarentine**](/projects/project-clarentine/) ([Github](https://github.com/IsaacKhor/project-clarentine/)) - My attempt at standardising the calendar not on any astronomical phenomena or religion but instead on regular repeating seasons of 144 days and cycles of 12 days.
+[**Project Clarentine**](/projects/project-clarentine/) 
+([Github](https://github.com/IsaacKhor/project-clarentine/)) - My attempt at 
+standardising the calendar not on any astronomical phenomena or religion but 
+instead on regular repeating seasons of 144 days and cycles of 12 days.
 
-[**Hermes**](/projects/hermes) ([Github](https://github.com/IsaacKhor/hermes/)) - A distributed message sending system for async communication between clients.
+[**Better FF Reader**](/projects/better-ff-reader/) 
+([Github](https://github.com/IsaacKhor/better-ff-reader/)) - A customisable 
+reader mode for Firefox.
 
-[**Better FF Reader**](/projects/better-ff-reader/) ([Github](https://github.com/IsaacKhor/better-ff-reader/)) - A customisable reader mode for Firefox.
+[**Tridactyl**](https://github.com/cmcaine/tridactyl) - A vim interface for
+Firefox. A successor to vimperator (RIP).
 
-[**User-Agent Randomiser**](/projects/user-agent-randomiser) ([Github](/projects/user-agent-randomiser/)) - A firefox extension that randomises your user-agent string on a configurable interval.
+[**CljTinyC**](https://github.com/IsaacKhor/cljtinyc) - An incomplete C compiler
+written in clojure for my compilers course.
 
-[**What Dalat Lunch?**](https://whatdalatlunch.glitch.me/) - A Dalat lunch tracker.
+**Autograder for Clark CS Courses** - I am in charge of Clark's autograding
+infrastructure for several CS courses. Email me to request access to the repo.
 
-[**Final Exam Calculator**](/projects/finalcalc/) - Calculates your maximum final score given your current grade and your required final exam grade for your desired final total score.

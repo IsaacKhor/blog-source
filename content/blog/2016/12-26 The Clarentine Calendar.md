@@ -4,23 +4,29 @@ draft = false
 title = "The Clarentine Calendar"
 +++
 
-I just designed a new calendar! The first draft has been copied here; for the most recent version, check it out on [Github](https://github.com/IsaacKhor/project-clarentine/).
+I just designed a new calendar! The first draft has been copied here; for the
+most recent version, check it out on [Github](https://github.com/IsaacKhor
+/project-clarentine/).
 
 # The Clarentine Calendar
 
-This is the formal specification for the Clarentine calendar. This document is a _work is progress_, it will change as feedback is incorporated.
+This is the formal specification for the Clarentine calendar. This document is a
+_work is progress_, it will change as feedback is incorporated.
 
-All pronunciations shall follow the rules of Standard Clarentine English Pronunciation (will be published later; it's still a work in progress).
+All pronunciations shall follow the rules of Standard Clarentine English
+Pronunciation (will be published later; it's still a work in progress).
 
 __NOTE: all numbers are written in base 10d/12e, or base-twelve__
 
 ### Day
 
-The fundamental unit of time in the Clarentine Calendar is the _day_. A day is defined they same way as in the UTC, including leap seconds. 
+The fundamental unit of time in the Clarentine Calendar is the _day_. A day is
+defined they same way as in the UTC, including leap seconds.
 
 ### Divisions of Time
 
-There are two _types_ of time periods: a __division__, and a __subdivision__. Divisions are converted to each other at a 1:10 ratio.
+There are two _types_ of time periods: a __division__, and a __subdivision__.
+Divisions are converted to each other at a 1:10 ratio.
 
 #### Divisions
 
@@ -56,15 +62,21 @@ There are two _types_ of time periods: a __division__, and a __subdivision__. Di
 
 ### Epoch
 
-This calendar uses the "J2000" epoch. The date 0-00 11:58:55.816 is defined as J2000, or 1 January 2000 11:58:55.816 UTC, or 1 January 2000 11:59:27.816 TAI (UTC and TAI times in decimal).
+This calendar uses the "J2000" epoch. The date 0-00 11:58:55.816 is defined as
+J2000, or 1 January 2000 11:58:55.816 UTC, or 1 January 2000 11:59:27.816 TAI
+(UTC and TAI times in decimal).
 
 ### Notation
 
 Date format:
 
-"y\*-md", where "y\*" is the year to as many digits as needed, "m" the month, and "d" the day.
+"y\*-md, where y\* is the year to as many digits as needed, m the month, and d
+"the day.
 
-All numbers are filled into the template from right-to-left, from the least significant to the most significant. All missing numbers are assumed to be the current division of time. The hyphen between the year and the month/day can be left out. 
+All numbers are filled into the template from right-to-left, from the least
+significant to the most significant. All missing numbers are assumed to be the
+current division of time. The hyphen between the year and the month/day can be
+left out.
 
 For example:
 
