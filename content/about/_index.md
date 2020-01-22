@@ -14,5 +14,4 @@ If you don't know me personally or know somebody that does, the easiest way of
 contacting me is via email (It's an image because I'm pretty sure spambot
 crawlers don't do OCR, or at least not yet):
 
-<img style="height: 40%; width: 40%;" src="/about/contact.png" alt="Email
-address">
+{{< figure src="contact.png" height="28px" alt="My email address" >}}
