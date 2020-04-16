@@ -7,7 +7,7 @@ echo -e "Deploying updates to GitHub..."
 
 # Build the project.
 echo -e "Building site... \n"
-hugo # if using a theme, replace by `hugo -t <yourtheme>`
+hugo --quiet # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Add and commit changes (in source repo)
 git add -A
