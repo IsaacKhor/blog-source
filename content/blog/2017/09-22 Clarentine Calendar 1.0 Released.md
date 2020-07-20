@@ -27,10 +27,6 @@ Current revision: 1.0.1
 This is the formal specification for the Clarentine calendar. This document is a
 _work is progress_; it will change as feedback is incorporated.
 
-All pronunciations shall follow the rules of Clarentine English Pronunciation
-(the specification of which will be published later; it's still a work in
-progress).
-
 ## Section 1: Names and Definitions
 
 1. The fundamental unit of time in the Clarentine Calendar is the _day_. The time of day is defined and notated the same way as in UTC.

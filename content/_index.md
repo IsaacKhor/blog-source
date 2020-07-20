@@ -7,7 +7,7 @@ since 2012. I have experience in most major areas of software engineering,
 from embedded programming, time-sensitive networking, to building blog engines
 in Go and backend infrastructure in clojure.
 
-Look below for the public projects I've worked on before.
+Look below for the projects I've worked on before.
 
 [Github](https://github.com/IsaacKhor/) {{< separator >}} 
 [Keybase](https://keybase.io/isaackhor) {{< separator >}} 
@@ -16,12 +16,6 @@ Look below for the public projects I've worked on before.
 ---
 
 ### Projects
-
-[**Project Clarentine**](/projects/project-clarentine/)
-([Github](https://github.com/IsaacKhor/project-clarentine/)) - My attempt at
-building a calendar not on any astronomical phenomena or religion but instead
-on regular repeating seasons of 144 days and cycles of 12 days. I'll be
-extremely surprised if there's anybody other than me using it.
 
 [**Better FF Reader**](/projects/better-ff-reader/) 
 ([Github](https://github.com/IsaacKhor/better-ff-reader/)) - A customisable 
@@ -37,7 +31,8 @@ written in clojure for my compilers course.
 Precision Time Protocol (PTP) on linux.
 
 **Autograder for Clark CS Courses** - I am in charge of Clark's autograding
-infrastructure for several CS courses. Email me to request access to the repo.
+infrastructure for several CS courses. Email me or the CS department for access;
+this is not code we want public.
 
 ---
 
