@@ -1,5 +1,5 @@
 +++
-title = "The Essence of Insanity"
+title = "Unknown Priors"
 +++
 
 My name is Isaac Khor, and I've been writing software, both big and small,

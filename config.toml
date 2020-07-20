@@ -1,6 +1,6 @@
 baseurl = "https://isaackhor.com/"
 languageCode = "en-gb"
-title = "Isaac Khor's Blog"
+title = "Unknown Priors"
 
 buildDrafts = false
 enableRobotsTXT = true
