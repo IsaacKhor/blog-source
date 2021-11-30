@@ -16,6 +16,7 @@ in Go and backend infrastructure in clojure.
 ## Education
 
 **Clark University** - Graduated Jun 2021
+
 - Major in Computer Science, High Honors
 - Major in Mathematics
 - Minor in Data Science
