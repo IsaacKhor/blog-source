@@ -1,6 +1,6 @@
 baseurl = "https://isaackhor.com/"
 languageCode = "en-gb"
-title = "Unknown Priors"
+title = "Isaac Khor"
 
 buildDrafts = false
 enableRobotsTXT = true
@@ -20,6 +20,6 @@ paginatePath = "page"
 [Params]
   DateForm = "2 Jan 2006"
   github = "https://github.com/IsaacKhor"
-  tagline = "Random ramblings from a preson of questionable sanity"
+  tagline = "My online home"
   licenseFile = "/about/license/"
 

@@ -11,7 +11,7 @@ hugo --quiet # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Add and commit changes (in source repo)
 git add -A
-git commit -m "`date`: $1" # msg already set from the public repo
+git commit -m "$1" # msg already set from the public repo
 
 echo -e "\nPushing blog source...\n"
 git push
