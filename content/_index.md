@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Isaac Khor"
 +++
 
 My name is Isaac Khor, and I've been writing software, both big and small,
@@ -16,23 +16,10 @@ team and plan to pursue a PhD in Computer Science starting Fall 2022.
 
 
 [Github](https://github.com/IsaacKhor/) {{< separator >}} 
-[Linkedin](https://www.linkedin.com/in/isaac-khor-5b3a3a168/) {{< separator >}}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Rx-F_H8AAAAJ) {{< separator >}}
 [Keybase](https://keybase.io/isaackhor) {{< separator >}} 
+[Linkedin](https://www.linkedin.com/in/isaackhor/) {{< separator >}}
 [PGP Public](/public-contact.asc)
-
----
-
-## Education
-
-**Clark University**, MA - Graduated Jun 2021, 4.0 GPA, High Honours, *Summa Cum Laude*
-
-PhD student in Computer Science starting Fall 2022.
-
----
-
-## Publications
-
-*soon (tm)* :)
 
 ---
 
@@ -42,6 +29,20 @@ PhD student in Computer Science starting Fall 2022.
 - 2019-2021: **System Administrator**, Clark University
 - 2019-2021: **Teaching Assistant**, Clark University
 - Summer 2019: **Software Engineering Intern**, Intel Malaysia
+
+---
+
+## Research
+
+- **Predicting Erosion Channel First Passage with Machine Learning**. *Isaac Khor, Arshad Kudrolli, Li Han*. Presented at APS March Meeting 2021.
+
+---
+
+## Education
+
+**Clark University**, MA - Graduated Jun 2021, 4.0 GPA, High Honours, *Summa Cum Laude*
+
+PhD student in Computer Science starting Fall 2022.
 
 ---
 
