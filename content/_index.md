@@ -4,10 +4,19 @@ title = "Home"
 
 My name is Isaac Khor, and I've been writing software, both big and small,
 since 2012. I have experience in most major areas of software engineering,
-from embedded programming, time-sensitive networking, to building blog engines
-in Go and backend infrastructure in clojure.
+from embedded programming, time-sensitive networking, and kernel hacking.
+
+I am currently interested in pursuing a PhD in systems; my research interest
+lies mainly in distributed and operating systems, specifically in unikernels,
+edge computing, containerisation, fault tolerant systems, and
+virtualisation.
+
+I currently work as a Graduate Trainee at Intel Malaysia as part of the HPC
+team and plan to pursue a PhD in Computer Science starting Fall 2022.
+
 
 [Github](https://github.com/IsaacKhor/) {{< separator >}} 
+[Linkedin](https://www.linkedin.com/in/isaac-khor-5b3a3a168/) {{< separator >}}
 [Keybase](https://keybase.io/isaackhor) {{< separator >}} 
 [PGP Public](/public-contact.asc)
 
@@ -15,29 +24,28 @@ in Go and backend infrastructure in clojure.
 
 ## Education
 
-**Clark University** - Graduated Jun 2021
+**Clark University**, MA - Graduated Jun 2021, 4.0 GPA, High Honours, *Summa Cum Laude*
 
-- Major in Computer Science, High Honors
-- Major in Mathematics
-- Minor in Data Science
+PhD student in Computer Science starting Fall 2022.
 
-Pursuing a PhD in Computer Science, expected to start Fall 2022
+---
+
+## Publications
+
+*soon (tm)* :)
 
 ---
 
 ## Employment
 
-2021-Current: **Graduate Trainee**, Intel Malaysia
-
-2019-2021: **System Administrator**, Clark University
-
-2018-2021: **Teaching Assistant**, Clark University
-
-Summer 2019: **Software Engineering Intern**, Intel Malaysia
+- 2021-Current: **Graduate Trainee**, Intel Malaysia
+- 2019-2021: **System Administrator**, Clark University
+- 2019-2021: **Teaching Assistant**, Clark University
+- Summer 2019: **Software Engineering Intern**, Intel Malaysia
 
 ---
 
-## Projects
+## Existing and Current Projects
 
 [**XIVAnalysis**](https://xivanalysis.com/)
 ([Github](https://github.com/xivanalysis/xivanalysis)) - Automated FFXIV
@@ -56,6 +64,6 @@ written in clojure for my compilers course.
 [**LinuxPTP**](http://linuxptp.sourceforge.net/) - An implementation of the
 Precision Time Protocol (PTP) on linux.
 
-**Autograder for Clark CS Courses** - I am in charge of Clark's autograding
-infrastructure for several CS courses. Email me or the CS department for access;
-this is not code we want public.
+**Autograder for Clark CS Courses** - I was in charge of Clark's autograding
+  infrastructure for several CS courses. Email me or the CS department for
+  access; this is not code we want public.
