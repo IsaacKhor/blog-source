@@ -1,5 +1,7 @@
 +++
 title = "License"
+notOnHomePage = true
+type = "special"
 +++
 
 Copyright &copy; 2017-2022 Isaac Khor.
