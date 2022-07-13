@@ -17,8 +17,7 @@ team and plan to pursue a PhD in Computer Science starting Fall 2022.
 
 [Github](https://github.com/IsaacKhor/) {{< separator >}} 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rx-F_H8AAAAJ) {{< separator >}}
-[Linkedin](https://www.linkedin.com/in/isaackhor/) {{< separator >}}
-[E-mail](mailto:contact@isaackhor.com)
+[Linkedin](https://www.linkedin.com/in/isaackhor/)
 
 ---
 
