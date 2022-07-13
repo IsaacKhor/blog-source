@@ -2,4 +2,4 @@
 	Referrer-Policy: no-referrer, strict-origin-when-cross-origin
 	X-Content-Type-Options: nosniff
 	Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-	Content-Security-Policy: default-src 'self' *.googleapis.com *.cloudflare.com *.cloudflareinsights.com *.gstatic.com; frame-ancestors 'none'; frame-src 'none';
+	Content-Security-Policy: default-src 'self' fonts.googleapis.com fonts.gstatic.com static.cloudflareinsights.com; frame-ancestors 'none'; frame-src 'none';
