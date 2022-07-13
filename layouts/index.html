@@ -5,8 +5,8 @@
     <div class="article__content">
     	{{ .Content }}
     </div>
-    <!--
     <ul class="article-list">
+    <!--
     {{ range (.Paginator 6).Pages }}
       <li class="article-list__item">
         <time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">
@@ -14,12 +14,12 @@
         </time>
         <span class="seperator">·</span>
         <span class="anticle-list__title">
-          <a href="{{ .URL }}">{{ .Title }}</a>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
         </span>
       </li>
     {{ end }}
+    -->
     </ul>
--   -->
   </article>
 </main>
 

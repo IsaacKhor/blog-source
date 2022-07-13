@@ -22,4 +22,5 @@ paginatePath = "page"
   github = "https://github.com/IsaacKhor"
   tagline = "My online home"
   licenseFile = "/about/license/"
+  rssurl = "/blog/index.xml"
 

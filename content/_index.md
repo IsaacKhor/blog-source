@@ -17,9 +17,8 @@ team and plan to pursue a PhD in Computer Science starting Fall 2022.
 
 [Github](https://github.com/IsaacKhor/) {{< separator >}} 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rx-F_H8AAAAJ) {{< separator >}}
-[Keybase](https://keybase.io/isaackhor) {{< separator >}} 
 [Linkedin](https://www.linkedin.com/in/isaackhor/) {{< separator >}}
-[PGP Public](/public-contact.asc)
+[E-mail](mailto:contact@isaackhor.com)
 
 ---
 
@@ -40,9 +39,9 @@ team and plan to pursue a PhD in Computer Science starting Fall 2022.
 
 ## Education
 
-**Clark University**, MA - Graduated Jun 2021, 4.0 GPA, High Honours, *Summa Cum Laude*
+**Northeastern University**, MA - PhD student in Computer Science, starting Fall 2022
 
-PhD student in Computer Science starting Fall 2022.
+**Clark University**, MA - Graduated Jun 2021, 4.0 GPA, High Honours, *Summa Cum Laude*
 
 ---
 
@@ -66,5 +65,4 @@ written in clojure for my compilers course.
 Precision Time Protocol (PTP) on linux.
 
 **Autograder for Clark CS Courses** - I was in charge of Clark's autograding
-  infrastructure for several CS courses. Email me or the CS department for
-  access; this is not code we want public.
+  infrastructure for several CS courses. Email the CS department for access.

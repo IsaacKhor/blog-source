@@ -12,7 +12,7 @@
         </time>
         <span class="seperator">·</span>
         <span class="anticle-list__title">
-          <a href="{{ .URL }}">{{ .Title }}</a>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
         </span>
       </li>
     {{ end }}
@@ -20,10 +20,10 @@
   {{ if gt .Paginator.TotalPages 1 }}
   <nav class="paginator-nav">
     <div class="paginator-nav__btn paginator-nav__prev">
-      {{if .HasPrev}}<a href="{{ .Prev.URL }}"><< Previous Page</a>{{end}}
+      {{if .HasPrev}}<a href="{{ .Prev.Permalink }}"><< Previous Page</a>{{end}}
     </div>
     <div class="paginator-nav__btn paginator-nav__next">
-      {{if .HasNext}}<a href="{{ .Next.URL }}">Next Page >></a>{{end}}
+      {{if .HasNext}}<a href="{{ .Next.Permalink }}">Next Page >></a>{{end}}
     </div>
     <span class="paginator-nav__count">Page {{ .PageNumber }} of {{ .TotalPages }}</span>
   </nav>
