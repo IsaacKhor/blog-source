@@ -6,14 +6,9 @@ My name is Isaac Khor, and I've been writing software, both big and small,
 since 2012. I have experience in most major areas of software engineering,
 from embedded programming, time-sensitive networking, and kernel hacking.
 
-I am currently interested in pursuing a PhD in systems; my research interest
-lies mainly in distributed and operating systems, specifically in unikernels,
-edge computing, containerisation, fault tolerant systems, and
-virtualisation.
-
-I currently work as a Graduate Trainee at Intel Malaysia as part of the HPC
-team and plan to pursue a PhD in Computer Science starting Fall 2022.
-
+I am currently pursuing a PhD in systems. My research interest lies mainly in
+distributed and operating systems, specifically in unikernels, edge computing,
+containerisation, fault tolerant systems, virtualisation, and storage systems.
 
 [Github](https://github.com/IsaacKhor/) {{< separator >}} 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rx-F_H8AAAAJ) {{< separator >}}
@@ -23,7 +18,7 @@ team and plan to pursue a PhD in Computer Science starting Fall 2022.
 
 ## Employment
 
-- 2021-Current: **Graduate Trainee**, Intel Malaysia
+- 2021-2022: **Graduate Trainee**, Intel Malaysia
 - 2019-2021: **System Administrator**, Clark University
 - 2019-2021: **Teaching Assistant**, Clark University
 - Summer 2019: **Software Engineering Intern**, Intel Malaysia
@@ -38,7 +33,7 @@ team and plan to pursue a PhD in Computer Science starting Fall 2022.
 
 ## Education
 
-**Northeastern University**, MA - PhD student in Computer Science, starting Fall 2022
+**Northeastern University**, MA - PhD student in Computer Science, started Fall 2022
 
 **Clark University**, MA - Graduated Jun 2021, 4.0 GPA, High Honours, *Summa Cum Laude*
 
