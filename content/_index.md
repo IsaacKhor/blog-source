@@ -45,6 +45,9 @@ containerisation, fault tolerant systems, virtualisation, and storage systems.
 [**LSVD**](https://github.com/CCI-MOC/lsvd-rbd) - A log-structured virtual disk
 built on top of an object store.
 
+[**ZStore**](https://github.com/IsaacKhor/zstore) - An distributed,
+eventually-consistent KV store built on ZNS SSDs (WIP).
+
 [**LinuxPTP**](http://linuxptp.sourceforge.net/) - An implementation of the
 Precision Time Protocol (PTP) on linux.
 
