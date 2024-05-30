@@ -18,6 +18,7 @@ containerisation, fault tolerant systems, virtualisation, and storage systems.
 
 ## Employment
 
+- Summer 2024: **Research Intern**, Cloudflare Inc
 - 2021-2022: **Graduate Trainee**, Intel Malaysia
 - 2019-2021: **System Administrator**, Clark University
 - 2019-2021: **Teaching Assistant**, Clark University
@@ -41,22 +42,19 @@ containerisation, fault tolerant systems, virtualisation, and storage systems.
 
 ## Existing and Current Projects
 
-[**XIVAnalysis**](https://xivanalysis.com/)
-([Github](https://github.com/xivanalysis/xivanalysis)) - Automated FFXIV
-performance analysis and suggestions
+[**LSVD**](https://github.com/CCI-MOC/lsvd-rbd) - A log-structured virtual disk
+built on top of an object store.
 
-[**Better FF Reader**](/projects/better-ff-reader/)
-([Github](https://github.com/IsaacKhor/better-ff-reader/)) - A customisable
-reader mode for Firefox.
+[**LinuxPTP**](http://linuxptp.sourceforge.net/) - An implementation of the
+Precision Time Protocol (PTP) on linux.
 
 [**Tridactyl**](https://github.com/cmcaine/tridactyl) - A vim interface for
 Firefox. A successor to vimperator (may it rest in peace).
 
-[**CljTinyC**](https://github.com/IsaacKhor/cljtinyc) - An incomplete C compiler
-written in clojure for my compilers course.
+[**XIVAnalysis**](https://xivanalysis.com/)
+([Github](https://github.com/xivanalysis/xivanalysis)) - Automated FFXIV
+performance analysis and suggestions
 
-[**LinuxPTP**](http://linuxptp.sourceforge.net/) - An implementation of the
-Precision Time Protocol (PTP) on linux.
 
 **Autograder for Clark CS Courses** - I was in charge of Clark's autograding
   infrastructure for several CS courses. Email the CS department for access.
